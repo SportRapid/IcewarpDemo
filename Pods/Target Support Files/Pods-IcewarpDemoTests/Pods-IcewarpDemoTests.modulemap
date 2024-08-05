@@ -1,0 +1,6 @@
+framework module Pods_IcewarpDemoTests {
+  umbrella header "Pods-IcewarpDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
